@@ -5,4 +5,4 @@
 ![Diagram](images/DiagramProject.png)
 
 # Cheat Sheet
-![CheatSheet])(images/CheatSheet.png)
+![CheatSheet](images/CheatSheet.png)
