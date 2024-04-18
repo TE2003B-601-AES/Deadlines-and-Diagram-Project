@@ -2,4 +2,7 @@
 ![Deadlines](images/Deadlines.png)
 
 # Diagram
-![Deadlines](images/DiagramProject.png)
+![Diagram](images/DiagramProject.png)
+
+# Cheat Sheet
+![CheatSheet](images/CheatSheet.png)
